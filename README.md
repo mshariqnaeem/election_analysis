@@ -61,7 +61,7 @@ The votes for each county are broken down below:
 
 **Denver: 306,055 votes (82.8%)**\
 **Jefferson: 38,855 votes (10.5%)**\
-**Arapahoe: 24,801 votes (6.7%)
+**Arapahoe: 24,801 votes (6.7%)**
 
 they were calculated using the following set of code:
 
